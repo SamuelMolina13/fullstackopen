@@ -1,6 +1,6 @@
 # Part 0
 
-## 📝 Exercise 0.4 - Classic Form
+## 📝 Exercise 0.4: New note diagram
 
 ```mermaid
 sequenceDiagram
@@ -37,7 +37,9 @@ sequenceDiagram
     deactivate server
 ```
 
-## 📝 Exercise 0.5 - SPA
+## 📝 Exercise 0.5: Single page app diagram
+
+## 📝 Exercise 0.6: New note in Single page app diagram
 
 ```mermaid
 sequenceDiagram
