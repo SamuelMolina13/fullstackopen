@@ -20,3 +20,7 @@ Repository for the [Full Stack Open course](https://fullstackopen.com/en/) offer
 | [Part 11](https://fullstackopen.com/en/part11)       | CI/CD                                                       | ➡️     | [View Code](https://github.com/LittleHaku/fullstackopen/tree/main/part11) |
 | [Part 12](https://fullstackopen.com/en/part12)       | Containers                                                  | ➡️     | [View Code](https://github.com/LittleHaku/fullstackopen/tree/main/part12) |
 | [Part 13](https://fullstackopen.com/en/part13)       | Using relational databases                                | ➡️     | [View Code](https://github.com/LittleHaku/fullstackopen/tree/main/part13) |
+
+## 🙏 Acknowledgements
+
+Massive thanks to the University of Helsinki and [Matti Luukkainen](https://github.com/mluukkai) for providing this incredible free resource, I did my Erasmus in this university and this just proves once again that they are way ahead in terms of education.
